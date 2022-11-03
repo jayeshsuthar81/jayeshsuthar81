@@ -1,15 +1,15 @@
 # Profile
-Hi 👋 My name is Jayesh
+Hi 👋 My Self Jayesh
 =======================
 
 Web Developer
 -------------
 
-I've been learning code from last 3 years . in this 3 year i tried many language like HTML, PHP, LARAVEL, JS, JQUERY, .NET . i know the basic knowledge of those language. Right now i am in LARAVEL and .NET .
+I've been learning code from last 3 years . in this 3 year i tried many language like HTML, PHP, LARAVEL, JS, JQUERY, c#, .NET . i know the basic knowledge of those language. Right now i am in .NET and Basic Laravel .
 
 * 🌍  I'm based in Gujarat
-* ✉️  You can contact me at [jayesh@raidlayer.com](mailto:jayesh@raidlayer.com)
-* 🧠  I'm learning LARAVEL, .NET
+* ✉️  You can contact me at [dev.nix8128@gmail.com](mailto:dev.nix8128@gmail.com)
+* 🧠  I'm learning .NET, LARAVEL
 
 <a href="https://www.github.com/jayeshsuthar81" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jayeshsuthar81?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
